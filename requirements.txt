@@ -1,0 +1,11 @@
+matplotlib
+pandas
+numpy
+tqdm
+statsmodels
+scipy
+scikit-learn
+cntk
+pickle5
+Keras
+ipython
